@@ -1,0 +1,8 @@
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/bin/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.deps.json
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/bin/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.dll
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/bin/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.pdb
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/obj/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.AssemblyInfoInputs.cache
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/obj/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.AssemblyInfo.cs
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/obj/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.csproj.CoreCompileInputs.cache
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/obj/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.dll
+/home/pedro/Codes/Courses/AprendendoModeloDDD/RestApiModeloDDD/3 - Domain/RestApiModeloDDD.Domain/obj/Debug/netcoreapp3.1/RestApiModeloDDD.Domain.pdb
